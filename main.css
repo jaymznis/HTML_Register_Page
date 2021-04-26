@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(240, 243, 245);
+}
+.header{
+    background-color: rgb(236, 236, 236);
+    margin: 0%;
+ 
+}
+.blue{
+    background-color: lightskyblue;
+}
+#about{
+    background-color: #2352eb; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 6px;
+  display: flex;
+  align-items: flex-end; 
+  float: right;
+}
+#submit{
+    background-color: #2352eb; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center; 
+  float: center;
+  
+}
+
+.signup{
+    
+    background-color: rgb(235, 235, 235);
+    width: 300px;
+    margin: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #aaaaa1;
+    border-radius: 8px;
+    padding: 10px;
+  
+
+ 
+
+}
+.logos{
+   
+}
