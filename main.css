@@ -38,13 +38,14 @@ body{
   display: flex;
   align-items: center; 
   float: center;
+ 
   
 }
 
 .signup{
     
     background-color: rgb(235, 235, 235);
-    width: 300px;
+    width: 250px;
     margin: 10px;
     position: absolute;
     left: 50%;
@@ -59,6 +60,7 @@ body{
 
 }
 .logos{
+    text-align: center;
    
 }
 .input{
