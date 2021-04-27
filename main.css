@@ -2,11 +2,10 @@ body{
     background-color: rgb(69, 180, 253);
 }
 
- 
-}
 .blue{
     background-color: rgb(81, 185, 250);
 }
+
 #about{
     background-color: #2352eb; 
   border: none;
@@ -22,6 +21,7 @@ body{
   align-items: flex-end; 
   float: right;
 }
+
 #submit{
     background-color: #2352eb; 
   border: none;
@@ -29,20 +29,15 @@ body{
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
- 
   font-size: 16px;
   margin: 10px;
   border-radius: 6px;
-
   align-items: center; 
   float: center;
-  width: 220px;
- 
-  
+  width: 220px; 
 }
 
 .signup{
-  
     background-color: rgb(235, 235, 235);
     width: 250px;
     margin: 25px;
@@ -53,17 +48,13 @@ body{
     border: 2px solid #aaaaa1;
     border-radius: 8px;
     padding: 30px;
-  
-
- 
-
 }
+
 .logos{
 position: relative;
-left: 100px;
-
-   
+left: 100px;  
 }
+
 .input{
     margin: 15px;
     display: block;
